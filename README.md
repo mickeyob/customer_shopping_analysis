@@ -1,6 +1,5 @@
 # Customer Behavior Dashboard - Power BI Project
 
-![Dashboard Preview](./dashboard-preview.png)
 
 ## 📊 Project Overview
 
